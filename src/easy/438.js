@@ -1,4 +1,4 @@
-import { input } from "./438_input.js"
+import { input_438 as input } from "./inputs.js"
 
 // input - array of integers
 // console.log("TAK") if it's prime, console.log("NIE") otherwise
