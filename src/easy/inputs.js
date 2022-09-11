@@ -8,7 +8,6 @@ export const input_438 = [
   7
 ]
 
-
 export const input_496 = [
   1,
   2,
@@ -44,4 +43,12 @@ export const input_499 = [
   [12, 1232],
   [6, 9],
   [420, 1337],
+]
+
+export const input_506 = [
+  "AAAAAAAABBBBBBCCCCCCCSDASDASDAS",
+  "AABBCC",
+  "AAABBBCCC",
+  "AABBBCCCCDDDDDAABBAAABBB",
+  "ABCDEF",
 ]
