@@ -1,6 +1,6 @@
 import { input_496 as input } from "./inputs.js"
 
-// input - array of integers
+// input - array of positive integers
 // console.log(<digit_of_tens> + " " + <digit_of_unity>)
 
 //  3! = 6

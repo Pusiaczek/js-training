@@ -1,6 +1,6 @@
 import { input_438 as input } from "./inputs.js"
 
-// input - array of integers
+// input - array of positive integers
 // console.log("TAK") if it's prime, console.log("NIE") otherwise
 
 const isPrimeNumber = (number) => {
