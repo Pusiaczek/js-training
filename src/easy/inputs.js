@@ -52,3 +52,12 @@ export const input_506 = [
   "AABBBCCCCDDDDDAABBAAABBB",
   "ABCDEF",
 ]
+
+export const input_522 = [
+  [12, 15],
+  [11, 22],
+  [3, 6],
+  [1, 2],
+  [10, 100],
+  [25,70],
+]
