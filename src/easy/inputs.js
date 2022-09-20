@@ -1,3 +1,13 @@
+// radius: float, distance: float
+export const input_609 = [
+  [10, 10],
+  [1000, 1500],
+  [1, 4],
+  [4.2, 1.1],
+  [12.123, 18],
+  [123456, 654321]
+]
+
 export const input_601 = [
   [1, 4],
   [4, 1],

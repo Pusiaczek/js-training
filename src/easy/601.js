@@ -11,7 +11,7 @@ const nwd = (a, b) => {
   return a
 }
 
-input.forEach((pair) => {
-  console.log(nwd(...pair))
+input.forEach(([a, b]) => {
+  console.log(nwd(a, b))
 })
 
